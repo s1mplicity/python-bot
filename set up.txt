@@ -1,0 +1,13 @@
+How to set it up
+
+1. pip install discord - If you do not have python installed You will need python Download: https://www.python.org/downloads/
+
+2.Replace where it says BOT_TOKEN_HERE with a token from https://discordapp.com/developers/applications (New application)
+
+3.Invite the bot to your discord server - https://discordapp.com/developers/applications/YOUR_BOT_ID_HERE/oauth2
+
+4. Start the app by opening cmd and type: py bot.py
+
+5. Type in the discord server ??ping
+
+6. You have a starter discord bot
